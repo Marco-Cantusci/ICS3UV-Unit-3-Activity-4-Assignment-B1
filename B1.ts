@@ -15,7 +15,7 @@ if (choice.toLowerCase() == "black" || choice.toLowerCase() == "white") {
   // if choice is red
 } else if (choice.toLowerCase() == "red") {
   console.log(
-    "This colour will look good on you",
+    "This colour will look good on you \n",
     "How about a pair of jeans to go with the sweater?",
   )
   // if choice is blue
